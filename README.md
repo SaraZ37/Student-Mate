@@ -1,73 +1,26 @@
-# Welcome to your Lovable project
+# Student Mate - Malmö 🎓
 
-## Project info
+**Student Mate** is a comprehensive platform specifically designed to help students in Malmö, Sweden, organize their academic and daily lives with ease.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+## ✨ Key Features
+* **Moving Checklist**: An organized task list to help new students settle in, covering university registration, ID cards, and internet setup.
+* **Budget Tracker**: A smart financial management system that allows students to monitor expenses such as rent, food, and transport in Swedish Krona (SEK).
+* **Study Notes**: A dedicated space for academic documentation and tracking project deadlines.
+* **Smart Dashboard**: A welcoming interface providing an instant summary of the student's financial and academic status.
 
-## How can I edit this code?
+## 🚀 Tech Stack
+This project is built using modern web technologies for high performance and security:
+- **Frontend**: React.js with TypeScript.
+- **Build Tool**: Vite for fast development and optimized builds.
+- **Styling**: Tailwind CSS and shadcn-ui for a modern, responsive user interface.
+- **Backend & Auth**: Supabase for real-time database management and secure user authentication.
+- **Icons**: Lucide React for meaningful visual cues (e.g., Graduation Cap and Study icons).
 
-There are several ways of editing your application.
+## 🛠️ Local Setup
+To run this project locally:
+1. `npm install` to install all dependencies.
+2. `npm run dev` to start the local development server.
 
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+## 👤 Project Credits
+Developed as part of the Graduation Project requirements in Malmö, Sweden.
+**Author: Sarah Al Zeer**

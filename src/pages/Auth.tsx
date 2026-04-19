@@ -82,11 +82,11 @@ export default function Auth() {
             </div>
           </div>
           <CardTitle className="text-2xl font-bold">
-            {isLogin ? "Welcome back" : "Get started"}
+            {isLogin ? "Welcome " : "Get started"}
           </CardTitle>
           <CardDescription>
             {isLogin
-              ? "Sign in to your Malmö Student Dashboard"
+              ? "Sign in to your Student Dashboard"
               : "Create your account to start organizing"}
           </CardDescription>
         </CardHeader>
